@@ -1,3 +1,9 @@
+<style>
+ul { 
+    list-style-type: none;
+}
+</style>
+
 ### Hello world! 👋
 
 I'm Hon! I'm a user interface dev, security engineer, and occasional public speaker! I work in the intersection of usability and security to make software [_secure by design_](https://www.youtube.com/watch?v=MEoLG5PI3TU). 

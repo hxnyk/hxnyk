@@ -8,4 +8,4 @@ I'm Hon! I'm a user interface dev, security engineer, and occasional public spea
 - 📫 &nbsp;&nbsp; How to reach me: Twitter [@hxnyk](https://twitter.com/hxnyk)
 - 😄 &nbsp;&nbsp; Pronouns: she/they
 
-[test pls ignore](ftp://(javascript:alert('hi'))google.com)
+[test pls ignore](http://(javascript:alert('hi'))google.com)

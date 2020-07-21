@@ -7,5 +7,3 @@ I'm Hon! I'm a user interface dev, security engineer, and occasional public spea
 - ✍️ &nbsp;&nbsp; I occasionally write about topics that excite me on my blog [hon.dev](https://hon.dev/) 
 - 📫 &nbsp;&nbsp; How to reach me: Twitter [@hxnyk](https://twitter.com/hxnyk)
 - 😄 &nbsp;&nbsp; Pronouns: she/they
-
-[test pls [aaa](javascript://google.com](javascript:alert('hi')))

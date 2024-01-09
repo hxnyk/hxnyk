@@ -2,7 +2,7 @@
 
 I'm Hon! I'm an engineer in the lovely San Francisco Bay Area. My digital footprint can be found at [hyk.io](https://hyk.io)!
 
-I enjoy [exploring the intersections of software, security, and user experience](content.md).
+I enjoy exploring the intersections of [**software, security, and user experience**](content.md).
 
 <!--
 **hxnyk/hxnyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
